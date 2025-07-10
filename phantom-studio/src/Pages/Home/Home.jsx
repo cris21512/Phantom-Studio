@@ -16,8 +16,10 @@ const Home = () => {
                 />
             </div>
             <div className="home-center">
-                <h1 className="text-7xl">Phantom Studio</h1>
-                <p></p>
+                <h1 className="text-8xl">Phantom Studio</h1>
+                <h2 className=" text-5xl ">Diseñamos en las sombras, brillamos en tu pantalla</h2>
+                <p className="ghost-call">Ghosteanos </p>
+                <span className="arrow">↓</span>
             </div>
         </div>
     );

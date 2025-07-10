@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Italianno&display=swap');
 
+
+
 #root {
   width: 100%;
   padding: 0;
@@ -19,9 +21,10 @@ a{
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Italianno", cursive;
-    color: #020202;
+    color: #000000;
     align-items: center;
     text-align: center;
+    text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.2);
 }
 p{
     font-family: "Bebas Neue", sans-serif;
