@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Italianno&display=swap');
+
+#root {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  cursor: none;
+}
+
+a{
+  text-decoration: none;
+  cursor: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Italianno", cursive;
+    color: #020202;
+    align-items: center;
+    text-align: center;
+}
+p{
+    font-family: "Bebas Neue", sans-serif;
+}
+
+
